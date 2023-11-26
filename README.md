@@ -13,15 +13,15 @@
     <img src="images/logo.png" alt="Todays Movie Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Todays Movie</h3>
+  <h3 align="center">Today's Movie</h3>
 
   <p align="center">
-    Discover and search for movies with Todays Movie, a feature-rich movie catalog website.
+    Discover and search for movies with Today's Movie, a feature-rich movie catalog website.
     <br />
     <a href="https://github.com/adityakanu/todays-movie"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://example.com">View Demo</a>
+    <a href="https://todays-movie.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/adityakanu/todays-movie/issues">Report Bug</a>
     ·
@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Todays Movie Screen Shot][product-screenshot]]
+[![Todays Movie Screen Shot][product-screenshot]](https://todays-movie.vercel.app/)
 
 Todays Movie is your go-to destination for discovering and exploring a vast collection of movies. From classic masterpieces to the latest releases, Todays Movie provides a seamless and immersive experience for movie enthusiasts.
 
@@ -131,7 +131,7 @@ Today's Movie offers a user-friendly interface to discover, search, and explore 
 - [x] Integrate Movie Database API
 - [ ] Implement User Authentication
     - [ ] Allow Users to Save Favorites
-- [ ] Enhance UI/UX for Mobile Devices
+- [ ] Add Discover and Trending Pages
 
 See the [open issues](https://github.com/adityakanu/todays-movie/issues) for a full list of proposed features and known issues.
 
