@@ -189,4 +189,3 @@ Project Link: [https://github.com/adityakanu/Todays-Movie](https://github.com/ad
 [TypeScript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
 [Typescript-url]: https://www.typescriptlang.org/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
